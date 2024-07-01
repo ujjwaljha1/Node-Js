@@ -1,5 +1,7 @@
 # Node.js and MongoDB 📚🚀
 
+![Node.js](https://nodejs.org/static/images/logo.svg)
+
 ## Introduction 🌟
 Welcome to this comprehensive guide on using Node.js and MongoDB together! This README file will take you through the basics to advanced concepts, showcasing how these technologies work individually and together. You'll learn how to set up, code, and interact with a Node.js server and a MongoDB database with examples, images, and videos. Let's dive in!
 
@@ -276,23 +278,7 @@ app.use((err, req, res, next) => {
 });
 ```
 
-## Images & Videos 🎥
 
-### Images
-
-**MongoDB Compass:**
-
-![MongoDB Compass](https://www.mongodb.com/assets/images/global/compass.svg)
-
-**Node.js Logo:**
-
-![Node.js](https://nodejs.org/static/images/logo.svg)
-
-### Videos
-
-**Node.js and MongoDB Crash Course:**
-
-[![Node.js and MongoDB Crash Course](https://img.youtube.com/vi/ldGl6L4Vktk/0.jpg)](https://www.youtube.com/watch?v=ldGl6L4Vktk)
 
 ## Conclusion 🎉
 
